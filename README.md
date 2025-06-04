@@ -1,16 +1,17 @@
-## Hi there 👋
+# PT Global Intan Teknindo
 
-<!--
-**giteknindo/giteknindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Giteknindo** adalah penyedia alat ukur geoteknik dan instrumentasi struktur terkemuka di Indonesia. Kami menyediakan berbagai alat seperti:
 
-Here are some ideas to get you started:
+- Inclinometer
+- Vibrating Wire Piezometer
+- Settlement Plate
+- Data Logger Geoteknik
+- Water Level Meter
+- Alat uji lainnya
+  
+Kami telah mendukung banyak proyek penting seperti bendungan, jalan tol, terowongan, dan pertambangan di beberapa wilayah Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website resmi kami: [https://giteknindo.id](https://giteknindo.id)
+
+📍 Berlokasi di Jakarta, Indonesia 
+Gmaps : (https://maps.app.goo.gl/LGbkgAZhRrkFag537)
