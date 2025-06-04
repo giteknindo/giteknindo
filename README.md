@@ -15,3 +15,4 @@ Kami telah mendukung banyak proyek penting seperti bendungan, jalan tol, terowon
 
 📍 Berlokasi di Jakarta, Indonesia 
 Gmaps : (https://maps.app.goo.gl/LGbkgAZhRrkFag537)
+![Giteknindo Logo](https://giteknindo.id/path-to-logo.jpg)
